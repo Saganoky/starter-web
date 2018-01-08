@@ -11,6 +11,6 @@
     Please leave a review if you like this course
 
 # TECHNOLOGY COLOPHON
-
+    Herp De Derp
     HTML5, CSS3
     jQuery, Modernizr
