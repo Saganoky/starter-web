@@ -13,7 +13,7 @@ MOAR Test text,
 Even more changes from my feature branch 2
 
 ## Copyright
-2014 copright h4h4h4
+2014 copright h4h4h4 all rights reserved
 
 ## Random Changes
 
